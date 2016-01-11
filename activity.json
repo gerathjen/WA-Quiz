@@ -1,0 +1,33 @@
+{"quizlist":[
+  
+	{
+	"question":"Zu welchen Religionsgruppen gehören die Sorben?",
+	"option1":"Sie sind Christen",
+	"option2":"Sie sind Buddhisten",
+	"option3":"Sie sind Muslime",
+	"option4":"Sie sind Araber"
+	},
+	{
+	"question":"Welche Sprache sprechen Sinti und Roma?",
+	"option1":"Romanes",
+	"option2":"Ungarisch",
+	"option3":"Zirzensisch",
+	"option4":"Sintisch"
+	},
+	{
+	"question":"Was ist Sufismus?",
+	"option1":"Sufismus gilt allgemein als die islamische Mystik",
+	"option2":"Sufismus ist ein Bereich des Baptistischen Weltbundes",
+	"option3":"Sufismus ist eine Lehrmeinung der griechisch-orthodoxen Theologie",
+	"option4":"Sufismus ist eine philosophische Lehrmeinung"
+	},
+	{
+	"question":"Welches Pulver haben die Chinesen bereits vor 1200 Jahren erfunden?",
+	"option1":"Schiesspulver",
+	"option2":"Backpulver",
+	"option3":"Waschpulver",
+	"option4":"Pulverisiere"
+	}
+
+]
+}

@@ -1,0 +1,187 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	/* Hintergrundfarbverlauf */
+	background-image: -webkit-linear-gradient(bottom right, white 0%, #A8CAED 100%); 
+	/*background-image: -moz-linear-gradient(right bottom, white 0%, #A8CAED 100%);*/
+	/*background-image:url(WA_Foto_2013.png);*/
+	font-family: Arial, Helvetica, sans-serif;
+	    }
+
+#navContent{
+	margin:auto;	
+	width:1024px;
+	height:750px;
+	position:relative;
+	overflow:hidden;
+}
+
+#game1{
+	margin:auto;
+	width:1024px;
+	height:750px;
+	right:0px;
+	position:absolute;
+}
+
+#game2{
+	margin:auto;	
+	width:1024px;
+	height:750px;
+	right:-800px;
+	position:absolute;
+} 
+
+/* Frage */
+.questionText{
+	font-size: 36px;
+	font-weight: bold;
+	color: black;
+	padding-left: 50px;
+	padding-top: 30px;	
+	padding-bottom: 20px;
+}
+
+/* Normaler Text */
+.normalText{
+	font-size: 24px;
+	font-weight: normal;
+	/* Zeilenabstand */	
+	line-height: 36px;
+	color: black;
+	padding-left: 50px;
+	padding-bottom: 20px;
+}
+
+/* Antworttext */
+.option{width:850px;
+	height:75px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-right: 0px;
+	font-size:32px;
+	color:black;
+	padding:2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left:10px;
+	padding-right: 10px;
+	border: 2px solid white;
+	cursor:pointer;
+	background-color:#A8C8E9;
+}
+
+.option:active {
+	border: solid 2px red;
+	cursor: pointer;
+}
+
+// Tablet-Browser unterstützen kein Hover-Effekt
+/* .option:hover{
+	border: solid 2px red;
+ 	color:#FC0;
+	cursor: pointer;
+}
+*/
+
+/* Kopfzeile */
+#topbar{
+	height:50px;
+	margin:auto;
+	color:black;
+	font-size:36px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:800px;
+}
+
+/* Fusszeile */
+#footer_container {
+   position:fixed;
+   bottom:0; left:0; right:0;
+   text-align:center;
+   margin:0;
+   height:2em;
+   z-index:3;
+   /* Horizontale Linie */
+   height: 65px;
+	border-top: solid black 1px;
+}
+
+/* Fusszeilentext */
+#footer {
+   position:absolute;
+   top:0; left:0; right:0; bottom:0;
+   z-index:3;
+	height:50px;
+	margin:auto;
+	margin-bottom:5px;
+	color:black;
+	font-size:36px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:800px;
+}
+
+.feedback1{
+	/* feste Position der Meldung "richtig" */
+	position: fixed;
+   bottom:0; left:0; right:0;
+   margin:0;
+   z-index:3;
+   /* Formatierung des Meldungstextes */
+	width:150px;
+	padding:15px;
+	font-size:30px;
+	color:white;
+	background-color:green;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+
+.feedback2{
+	/* feste Position der Meldung "falsch" */
+	position: fixed;
+   bottom:0; left:0; right:0;
+   margin:0;
+   z-index:3;
+   /* Formatierung des Meldungstextes */
+	width:150px;
+	padding:15px;
+	font-size:30px;
+	color:white;
+	background-color:red;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+
+input[type=button]#b_neuladen {
+	background-color:red;
+	color:white;
+	border-style:solid;
+	border-width:1px;
+	border-color:white;
+	border-radius:15px;
+	margin-top: 20px;
+	padding:5px;
+	font-size:32px;
+	font-weight:bold;
+	width:320px;
+}
+
+input[type=button]#b_neuladen:hover {
+   background-color:white;
+   border-color:red;
+   color:darkred;
+   cursor:pointer;
+}
+
+@media screen and (max-width:800px) {
+	#topbar{margin-left:1%;margin-right:1%;	width:96%;}
+	#navContent{margin:1%;	width:98%;}
+	#game1{margin:1%;	width:98%;}
+	#game2{margin:1%;	width:98%;}
+
+}
+@media screen and (max-width:460px) {
+	.option{width:80%;margin:5%;}
+}
