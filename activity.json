@@ -35,6 +35,216 @@
 	"option1":"Ihre Verfolgungsgründe darlegen und nachweisen",
 	"option2":"Ihre Eignung für den deutschen Arbeitsmarkt nachweisen",
 	"option3":"Ihre Kenntnisse in der deutschen Sprache nachweisen"
+	},
+	{
+	"question":"Was ist subsidiärer Schutz?",
+	"option1":"Schutz für Menschen, die wegen erheblicher konkreter Gefahr für Leib, Leben oder Freiheit aus ihrem Heimatland fliehen",
+	"option2":"Schutz vor Diebstahl und Raub",
+	"option3":"Schutz für Menschen, die Urlaub in Deutschland machen möchten"
+	},
+	{
+	"question":"SpätaussiedlerInnen sind:",
+	"option1":"Angehörige deutscher Minderheiten in Ost- und Südosteuropa",
+	"option2":"Menschen, die nach langem Aufenthalt in Deutschland wieder in ihr Herkunftsland zurück wandern",
+	"option3":"Menschen, die aus den USA nach Deutschland zurück kehren"
+	},
+	{
+	"question":"Welche Menschen werden auch Russlanddeutsche genannt?",
+	"option1":"Spätaussiedler aus der ehemaligen Sowjetunion",
+	"option2":"Kinder, die einen russischsprachigen Elternteil haben",
+	"option3":"Menschen, die deutsch und russisch sprechen"
+	},
+	{
+	"question":"Welches Geschenk erhielt Armando Rodrigues de Sá aus Portugal als millionster Gastarbeiter in der Bundesrepublik?",
+	"option1":"Ein Moped und einen Strauß Nelken",
+	"option2":"Ein Gutschein für einen Kinobesuch",
+	"option3":"Eine Curry-Wurst und ein Getränk"
+	},
+	{
+	"question":"Wenn von Roma gesprochen wird, wer ist damit gemeint?",
+	"option1":"Roma, Sinti und andere Völker",
+	"option2":"Menschen aus Rom, Italien",
+	"option3":"Romantiker"
+	},
+	{
+	"question":"Wo liegt die Urheimat der Roma und Sinti?",
+	"option1":"Punjab",
+	"option2":"Ungarn",
+	"option3":"Russland"
+	},
+	{
+	"question":"Warum ist das Wort Zigeuner ein Schimpfwort?",
+	"option1":"... weil es sich um eine abwertende Fremdbezeichnung handelt",
+	"option2":"... weil es an das Wort Ziege erinnert",
+	"option3":"... weil man es nur schimpfend aussprechen kann"
+	},
+	{
+	"question":"Was bedeutet Migration?",
+	"option1":"längerfristiger Wohnsitzwechsel",
+	"option2":"Mittagessen auf Griechisch",
+	"option3":"Spaziergang im Wald"
+	},
+	{
+	"question":"Wer gilt offiziell als Deutsche/r?",
+	"option1":"Menschen, die die deutsche Staatsbürgerschaft, also einen deutschen Pass bestitzen",
+	"option2":"Menschen, die deutsch als Muttersprache haben",
+	"option3":"Menschen, die in Deutschland geboren sind"
+	},
+	{
+	"question":"Was bedeutet Immigration?",
+	"option1":"Einwanderung",
+	"option2":"Auswanderung",
+	"option3":"Wanderung"
+	},
+	{
+	"question":"Was bedeutet Intoleranz?",
+	"option1":"Unduldsamkeit gegenüber anders denkenden und handelnden Menschen",
+	"option2":"Zulassen von anderen Meinungen und Handlungsweisen",
+	"option3":"Toleranz ist in!"
+	},
+	{
+	"question":"Was ist der Einbürgerungstest?",
+	"option1":"Ein Test, um den deutschen Pass zu erhalten",
+	"option2":"Ein Test in Mathematik",
+	"option3":"Ein Geschmackstest von Burgern"
+	},
+	{
+	"question":"Wie viele Fragen umfasst der Einbürgerungstest?",
+	"option1":"ca. 300 Fragen",
+	"option2":"ca. 100 Fragen",
+	"option3":"ca. 500 Fragen"
+	},
+	{
+	"question":"Wie lautet die Definition von Person mit Migrationshintergrund?",
+	"option1":"mindestens ein Elternteil muss ausländischer Herkunft ist",
+	"option2":"man muss selber im Ausland geboren sein",
+	"option3":"beide Elternteile müssen ausländischer Herkunft sein"
+	},
+	{
+	"question":"Was bedeutet interkulturelle Kompetenz?",
+	"option1":"Mit Menschen aus anderen Kulturen zufriedenstellend und erfolgreich agieren",
+	"option2":"Viele Fremdsprachen perfekt beherrschen",
+	"option3":"Viele Reisen in fremde Länder und Kulturen unternehmen"
+	},
+	{
+	"question":"Wenn man einen im Ausland erlernten Beruf in Deutschland ausüben will:",
+	"option1":"Muss man immer die erworbene Berufsausbildung offiziell anerkennen lassen",
+	"option2":"Braucht man keine behördliche Anerkennung",
+	"option3":"Ist die Anerkennung nur bei bestimmten Berufen notwendig"
+	},
+	{
+	"question":"Was sind Integrationsräte?",
+	"option1":"Ein kommunales Gremium, das sich um die Belange von Migrantinnen und Migranten kümmert",
+	"option2":"Ein Ratgeber zur Integration in Deutschland",
+	"option3":"Eine Organisation, die Ratschläge erarbeitet"
+	},
+	{
+	"question":"Welcher Satz steht so in der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen (UNO)?",
+	"option1":"Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geiste der Brüderlichkeit begegnen",
+	"option2":"Alle Menschen sollen nach finanziellem Reichtum streben",
+	"option3":"Alle Menschen dürfen so leben, wie sie wollen, auch wenn sie anderen damit schaden"
+	},
+	{
+	"question":" Die Würde des Menschen ist unantastbar - wo steht dieser Satz geschrieben?",
+	"option1":"Im Grundgesetz (GG)",
+	"option2":"Im Asylgesetz AsylG)",
+	"option3":"Im Bürgerlichen Gesetzbuch (BGB)"
+	},
+	{
+	"question":"Was sind die Vereinten Nationen (UNO)?",
+	"option1":"Ein Zusammenschluss aus 193 Ländern zur Sicherung des Weltfriedens, die Einhaltung des Völkerrechts, der Schutz der Menschenrechte und die Förderung der intern. Zusammenarbeit",
+	"option2":"Ein Zusammenschluss der reichsten Länder zur Verbesserung des Finanzmarkts",
+	"option3":"Eine Organisation, die sich um nationale Sicherheit kümmert"
+	},
+	{
+	"question":"Seit wann wurde Deutschland offiziell als Einwanderungsland benannt?",
+	"option1":"1999",
+	"option2":"1955",
+	"option3":"1977"
+	},
+	{
+	"question":"Am 01.04.2012 trat das so genannte Anerkennungsgesetz in Kraft. Nach einer genauen Prüfung kann damit WAS besser anerkannt werden?",
+	"option1":"Im Ausland erworbene Berufsabschlüsse",
+	"option2":"Im Ausland erworbene Sprachzertifikate",
+	"option3":"Im Ausland erworbene Führerscheinprüfungen"
+	},
+	{
+	"question":"Wenn wir schreiben, benutzen wir lateinische Buchstaben. Aber die Ziffern, mit der wir unsere Zahlen schreiben sind ...?",
+	"option1":"arabisch",
+	"option2":"persisch",
+	"option3":"türkisch"
+	},
+	{
+	"question":"Es wird behauptet, dass der Gartenzwerg ursprünglich nicht aus Deutschland kommt, sondern aus:",
+	"option1":"Der Türkei",
+	"option2":"Der Schweiz",
+	"option3":"Österreich"
+	},
+	{
+	"question":"Wo kann man innerhalb einer Stadt von einem Kontinent auf den anderen spazieren?",
+	"option1":"Istanbul",
+	"option2":"Jerusalem",
+	"option3":"Mexico City"
+	},
+	{
+	"question":"In welchem Land liegt die Hafenstadt Mokka? Nach ihr wurde der gleichnamige Kaffee benannt.",
+	"option1":"Im Jemen",
+	"option2":"In Äthiopien",
+	"option3":"In Dubai"
+	},
+	{
+	"question":"Die Kartoffel gilt als ein typisch deutsches Gemüse. Doch woher kommt die Kartoffel ursprünglich?",
+	"option1":"aus Südamerika",
+	"option2":"aus Südeuropa",
+	"option3":"aus Asien"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Joghurt?",
+	"option1":"aus dem Türkischen",
+	"option2":"aus dem Spanischen",
+	"option3":"aus dem Griechischen"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Onkel?",
+	"option1":"aus dem Französischen",
+	"option2":"aus dem Polnischen",
+	"option3":"aus dem Italienischen"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Kosmonaut?",
+	"option1":"aus dem Russischen",
+	"option2":"aus dem Lateinischen",
+	"option3":"aus dem Ungarischen"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Safari?",
+	"option1":"aus dem Arabischen",
+	"option2":"aus dem Afrikaans",
+	"option3":"aus dem Bengalischen"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Soja?",
+	"option1":"aus dem Japanischen",
+	"option2":"aus dem Tschechien",
+	"option3":"aus dem Portugiesischen"
+	},
+	{
+	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Mais?",
+	"option1":"aus dem Spanischen",
+	"option2":"aus dem Englischen",
+	"option3":"aus dem Serbischen"
+	},
+	{
+	"question":"Was bedeutet Schalom?",
+	"option1":"Es bedeutet Frieden",
+	"option2":"Das ist ein Gefäß für geweihtes Wasser",
+	"option3":"Das ist eine Wintersportart"
+	},
+	{
+	"question":"Was bedeutet das Wort Kanaken?",
+	"option1":"Mensch",
+	"option2":"Blume",
+	"option3":"Ebenbild"
 	}
 
 ]
