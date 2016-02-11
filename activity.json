@@ -152,7 +152,7 @@
 	},
 	{
 	"question":"Was sind die Vereinten Nationen (UNO)?",
-	"option1":"Ein Zusammenschluss aus 193 Ländern zur Sicherung des Weltfriedens, die Einhaltung des Völkerrechts, der Schutz der Menschenrechte und die Förderung der intern. Zusammenarbeit",
+	"option1":"Ein Zusammenschluss aus 193 Ländern zur Sicherung des Weltfriedens, die Einhaltung des Völkerrechts und der Schutz der Menschenrechte",
 	"option2":"Ein Zusammenschluss der reichsten Länder zur Verbesserung des Finanzmarkts",
 	"option3":"Eine Organisation, die sich um nationale Sicherheit kümmert"
 	},
@@ -199,37 +199,37 @@
 	"option3":"aus Asien"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Joghurt?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Joghurt?",
 	"option1":"aus dem Türkischen",
 	"option2":"aus dem Spanischen",
 	"option3":"aus dem Griechischen"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Onkel?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Onkel?",
 	"option1":"aus dem Französischen",
 	"option2":"aus dem Polnischen",
 	"option3":"aus dem Italienischen"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Kosmonaut?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Kosmonaut?",
 	"option1":"aus dem Russischen",
 	"option2":"aus dem Lateinischen",
 	"option3":"aus dem Ungarischen"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Safari?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Safari?",
 	"option1":"aus dem Arabischen",
 	"option2":"aus dem Afrikaans",
 	"option3":"aus dem Bengalischen"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Soja?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Soja?",
 	"option1":"aus dem Japanischen",
 	"option2":"aus dem Tschechien",
 	"option3":"aus dem Portugiesischen"
 	},
 	{
-	"question":"Viele Worte, dir wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Mais?",
+	"question":"Viele Worte, die wir im Deutschen verwenden, haben ihren Ursprung in anderen Sprachen. Woher stammt z.B. das Wort Mais?",
 	"option1":"aus dem Spanischen",
 	"option2":"aus dem Englischen",
 	"option3":"aus dem Serbischen"
