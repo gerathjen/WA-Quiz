@@ -2,7 +2,7 @@ $(document).ready(function () {
 	
 var questionNumber=0;
 // Anzahl Fragen
-var maximumQuestions=5;
+var maximumQuestions=1;
 var questionBank=new Array();
 var stage="#game1";
 var stage2=new Object;
@@ -84,9 +84,9 @@ function changeQuestion(){
 
 function displayFinalSlide(){
 
-	$(stage).append('<div class="questionText">Klasse, du hast das Quiz abgeschlossen!<br><br>Anzahl Fragen: '+maximumQuestions+'<br>Richtige Antworten: '+score+'</div><div class="normalText"><img src="anderscool-jmd.png" alt="anders? - cool!-Logo" align="right" hspace="40">Serviceb&uuml;ro Jugendmigrationsdienste<br>Adenauerallee 12-14<br>53113 Bonn<br><br>t. 0228 / 95968-0<br>f. 0228 / 95968-30<br>anders-cool@jugendmigrationsdienste.de<br>www.anderscool.de</div>');
+	$(stage).append('<div class="praiseText">Klasse, du hast das Quiz abgeschlossen!</div><div class="questionText">Du hast <b>'+score+'</b> von '+maximumQuestions+' richtig beantwortet.<br /><br /></div><div class="normalText"><img src="anderscool-jmd.png" alt="anders? - cool!-Logo" align="right" hspace="30"><center>Viel Spa&szlig; bei der Wanderausstellung &#x22;anders? - cool!&#x22;</center></div>');
 	// Neustarten des Quiz nach 10 Sekunden //
-	setTimeout(function() { location.reload() },10000);
+	// setTimeout(function() { location.reload() },10000);
 } //display final slide
 
 });//doc ready

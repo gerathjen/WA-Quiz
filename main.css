@@ -42,9 +42,24 @@ html, body {
 	padding-bottom: 20px;
 }
 
+.praiseText {
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+	padding-left: 50px;
+	padding-top: 30px;	
+	padding-bottom: 20px;
+}
+
+/* Textfarbe green */
+b {
+	font-size: 1.5em;
+	color: green;
+}
+
 /* Normaler Text */
 .normalText{
-	font-size: 24px;
+	font-size: 28px;
 	font-weight: normal;
 	/* Zeilenabstand */	
 	line-height: 36px;

@@ -20,7 +20,7 @@
 	},
 	{
 	"question":"Was ist die Genfer Flüchtlingskommision?",
-	"option1":"Das erste universell geltende Abkommen, das sich ausschliesslich der Flüchtlingsproblematik widmet. Sie ist der Grundpfeiler des internationalen Flüchtlingsschutzes",
+	"option1":"Ein Abkommen, das sich der Flüchtlingsproblematik widmet. Die GFK ist das wichtigste internationale Dokument für den Flüchtlingsschutz",
 	"option2":"Ein Buch über Grundlagen von Flucht und Migration",
 	"option3":"Ein anderes Wort für das Bürgerliche Gesetzbuch (BGB)"
 	},
@@ -68,9 +68,9 @@
 	},
 	{
 	"question":"Wo liegt die Urheimat der Roma und Sinti?",
-	"option1":"Punjab",
-	"option2":"Ungarn",
-	"option3":"Russland"
+	"option1":"Punjab, Indien",
+	"option2":"Szolnok, Ungarn",
+	"option3":"Pljos, Russland"
 	},
 	{
 	"question":"Warum ist das Wort Zigeuner ein Schimpfwort?",
@@ -86,7 +86,7 @@
 	},
 	{
 	"question":"Wer gilt offiziell als Deutsche/r?",
-	"option1":"Menschen, die die deutsche Staatsbürgerschaft, also einen deutschen Pass bestitzen",
+	"option1":"Menschen, die die deutsche Staatsbürgerschaft, also einen deutschen Pass besitzen",
 	"option2":"Menschen, die deutsch als Muttersprache haben",
 	"option3":"Menschen, die in Deutschland geboren sind"
 	},
@@ -121,16 +121,16 @@
 	"option3":"beide Elternteile müssen ausländischer Herkunft sein"
 	},
 	{
-	"question":"Was bedeutet interkulturelle Kompetenz?",
+	"question":"Was bedeutet Interkulturelle Kompetenz?",
 	"option1":"Mit Menschen aus anderen Kulturen zufriedenstellend und erfolgreich agieren",
 	"option2":"Viele Fremdsprachen perfekt beherrschen",
 	"option3":"Viele Reisen in fremde Länder und Kulturen unternehmen"
 	},
 	{
 	"question":"Wenn man einen im Ausland erlernten Beruf in Deutschland ausüben will:",
-	"option1":"Muss man immer die erworbene Berufsausbildung offiziell anerkennen lassen",
-	"option2":"Braucht man keine behördliche Anerkennung",
-	"option3":"Ist die Anerkennung nur bei bestimmten Berufen notwendig"
+	"option1":"muss man immer die erworbene Berufsausbildung offiziell anerkennen lassen",
+	"option2":"braucht man keine behördliche Anerkennung",
+	"option3":"ist die Anerkennung nur bei bestimmten Berufen notwendig"
 	},
 	{
 	"question":"Was sind Integrationsräte?",
@@ -139,7 +139,7 @@
 	"option3":"Eine Organisation, die Ratschläge erarbeitet"
 	},
 	{
-	"question":"Welcher Satz steht so in der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen (UNO)?",
+	"question":"Welcher Satz steht in der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen (UNO)?",
 	"option1":"Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geiste der Brüderlichkeit begegnen",
 	"option2":"Alle Menschen sollen nach finanziellem Reichtum streben",
 	"option3":"Alle Menschen dürfen so leben, wie sie wollen, auch wenn sie anderen damit schaden"
@@ -147,12 +147,12 @@
 	{
 	"question":" Die Würde des Menschen ist unantastbar - wo steht dieser Satz geschrieben?",
 	"option1":"Im Grundgesetz (GG)",
-	"option2":"Im Asylgesetz AsylG)",
+	"option2":"Im Asylgesetz (AsylG)",
 	"option3":"Im Bürgerlichen Gesetzbuch (BGB)"
 	},
 	{
 	"question":"Was sind die Vereinten Nationen (UNO)?",
-	"option1":"Ein Zusammenschluss aus 193 Ländern zur Sicherung des Weltfriedens, die Einhaltung des Völkerrechts und der Schutz der Menschenrechte",
+	"option1":"Ein Zusammenschluss aus 193 Ländern zur Sicherung des Weltfriedens, der Einhaltung des Völkerrechts und dem Schutz der Menschenrechte",
 	"option2":"Ein Zusammenschluss der reichsten Länder zur Verbesserung des Finanzmarkts",
 	"option3":"Eine Organisation, die sich um nationale Sicherheit kümmert"
 	},
@@ -241,10 +241,16 @@
 	"option3":"Das ist eine Wintersportart"
 	},
 	{
-	"question":"Was bedeutet das Wort Kanaken?",
+	"question":"Was bedeutet das Wort Kanake?",
 	"option1":"Mensch",
 	"option2":"Blume",
 	"option3":"Ebenbild"
+	},
+	{
+	"question":"Mit welchen Ländern gab es zwischen 1955-1968 Anwerbeabkommen für Gastarbeiter in Deutschland?",
+	"option1":"u.a. mit Italien, Spanien, Tunesien und Südkorea",
+	"option2":"u.a. mit Österreich, Dänemark, Schweden und Norwegen",
+	"option3":"u.a. mit Mexiko, USA, Japan und Kambodscha"
 	}
 
 ]
