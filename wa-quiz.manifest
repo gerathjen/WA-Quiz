@@ -1,0 +1,37 @@
+CACHE MANIFEST
+
+# v000006
+# Daten, die gecached werden sollen
+CACHE:
+activity copy.json
+activity.json
+anderscool-jmd.png
+anderscool.png
+controller copy.js
+controller.js
+greybg.png
+index.html
+jquery.js
+main copy.css
+main.css
+README.md
+WA_Foto_2013.png
+
+# Seiten, die nur online genutzt werden können
+NETWORK:
+		
+# Statische Seiten, wenn eine Anwendung nicht erreichbar ist
+FALLBACK:
+activity copy.json
+activity.json
+anderscool-jmd.png
+anderscool.png
+controller copy.js
+controller.js
+greybg.png
+index.html
+jquery.js
+main copy.css
+main.css
+README.md
+WA_Foto_2013.png
